@@ -20,7 +20,7 @@ Welcome to the Python Address Book project! This application allows users to man
 1.  **Clone the Repository:**
 - Copy the repository URL from GitHub.
 - Open a terminal and run:
-  git clone https://github.com/Shyam-Dattani/python-address-book.git
+  git clone https://github.com/ShyammD/python-address-book.git
 
 2.  **Navigate to the Project Directory:**
 - Change to the project directory:
